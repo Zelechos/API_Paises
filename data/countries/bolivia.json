@@ -1,0 +1,86 @@
+{
+    "country": "Bolivia",
+    "departaments": [
+        "Beni",
+        "Chuquisaca",
+        "Cochabamba",
+        "La Paz",
+        "Oruro",
+        "Pando",
+        "Potosí",
+        "Santa Cruz",
+        "Tarija"
+    ],
+    "provinces":[
+        {
+            "departament": "Beni",
+            "province":[
+                "Antonio Vaca Díez",
+                "Cercado",
+                "General José Ballivián Segurola",
+                "Iténez",
+                "Mojos",
+                "Marbán",
+                "Mamoré",
+                "Yacuma"
+            ]
+        },
+        {
+            "departament": "Chuquisaca",
+            "province":[
+                "Juana Azurduy.",
+                "Belisario Boeto.",
+                "Hernando Siles.",
+                "Luis Calvo.",
+                "Nor Cinti.",
+                "Oropeza.",
+                "Sud Cinti.",
+                "Tomina.",
+                "Yamparáez.",
+                "Jaime Zudáñez"
+            ]
+        },
+        {
+            "departament": "Cochabamba",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "La Paz",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Oruro",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Pando",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Potosí",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Santa Cruz",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Tarija",
+            "province":[
+
+            ]
+        }
+    ]
+}

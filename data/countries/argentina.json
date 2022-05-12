@@ -1,0 +1,232 @@
+{
+    "country": "Argentina",
+    "departaments": [
+        "Buenos Aires",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Córdoba",
+        "Corrientes",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+        "Tucumán"
+    ],
+    "provinces":[
+        {
+            "departament": "Buenos Aires",
+            "province":[
+                "Almirante Brown",
+                "Avellaneda",
+                "Berazategui",
+                "Berisso",
+                "Brandsen",
+                "Campana",
+                "Cañuelas",
+                "Ensenada",
+                "Escobar",
+                "Esteban Echeverría",
+                "Exaltación de la Cruz",
+                "Ezeiza",
+                "Florencio Varela",
+                "General Las Heras",
+                "General Rodríguez",
+                "General San Martín",
+                "Hurlingham",
+                "Ituzaingó",
+                "José C. Paz",
+                "La Matanza",
+                "La Plata",
+                "Lanús",
+                "Lomas de Zamora",
+                "Luján",
+                "Malvinas Argentinas",
+                "Marcos Paz",
+                "Merlo",
+                "Moreno",
+                "Morón",
+                "Pilar",
+                "Presidente Perón",
+                "Quilmes",
+                "San Fernando",
+                "San Isidro",
+                "San Miguel",
+                "San Vicente",
+                "Tigre",
+                "Tres de Febrero",
+                "Vicente López",
+                "Zárate"
+            ]
+        },
+        {
+            "departament": "Catamarca",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Chaco",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Chubut",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Córdoba",
+            "province":[
+                "Calamuchita",
+                "Capital",
+                "Colón",
+                "Cruz",
+                "General",
+                "General",
+                "Ischilín",
+                "Juárez",
+                "Marcos",
+                "Minas",
+                "Pocho",
+                "Presidente",
+                "Punilla",
+                "Río Cuarto",
+                "Río Primero",
+                "Río Seco",
+                "Río Segundo",
+                "San Alberto",
+                "San Javier",
+                "San Justo",
+                "Santa María",
+                "Sobremonte",
+                "Tercero",
+                "Totoral",
+                "Tulumba",
+                "Unión"
+            ]
+        },
+        {
+            "departament": "Corrientes",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Entre Ríos",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Formosa",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Jujuy",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "La Pampa",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "La Rioja",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Mendoza",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Misiones",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Neuquén",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Río Negro",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Salta",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "San Juan",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "San Luis",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Santa Cruz",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Santa Fe",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Santiago del Estero",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Tucumán",
+            "province":[
+
+            ]
+        }
+    ]
+}

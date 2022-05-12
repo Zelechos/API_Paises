@@ -1,0 +1,189 @@
+{
+    "country": "Perú",
+    "departaments": [
+        "Amazonas",
+        "Áncash",
+        "Apurímac",
+        "Arequipa",
+        "Ayacucho",
+        "Cajamarca",
+        "Callao",
+        "Cusco",
+        "Huancavelica",
+        "Huánuco",
+        "Ica",
+        "Junín",
+        "La Libertad",
+        "Lambayeque",
+        "Lima Metropolitana",
+        "Huacho",
+        "Loreto",
+        "Madre de Dios",
+        "Moquegua",
+        "Pasco",
+        "Piura",
+        "Puno",
+        "San Martín",
+        "Tacna",
+        "Tumbes",
+        "Ucayali"
+    ],
+    "provinces":[
+        {
+            "departament": "Amazonas",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Áncash",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Apurímac",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Arequipa",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Ayacucho",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Cajamarca",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Callao",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Cusco",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Huancavelica",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Huánuco",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Ica",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Junín",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "La Libertad",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Lambayeque",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Lima Metropolitana",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Huacho",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Loreto",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Madre de Dios",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Moquegua",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Pasco",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Piura",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Puno",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "San Martín",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Tacna",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Tumbes",
+            "province":[
+
+            ]
+        },
+        {
+            "departament": "Ucayali",
+            "province":[
+
+            ]
+        }
+    ]
+}

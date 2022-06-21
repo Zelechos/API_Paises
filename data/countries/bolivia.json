@@ -43,43 +43,130 @@
         {
             "departament": "Cochabamba",
             "province":[
-
+                "Arani", 
+                "Arque", 
+                "Ayopaya", 
+                "Bolívar", 
+                "Narciso Campero", 
+                "Capinota", 
+                "Carrasco", 
+                "Cercado", 
+                "Chapare",
+                "Esteban Arce",
+                "Germán Jordán",
+                "Mizque",
+                "Punata", 
+                "Quillacollo",
+                "Tapacarí",
+                "Tiraque"
             ]
         },
         {
             "departament": "La Paz",
             "province":[
-
+                "Abel Iturralde",
+                "Pedro Domingo Murillo",
+                "Pacajes",
+                "Larecaja",
+                "Inquisivi",
+                "Sud Yungas",
+                "Ingavi",
+                "Muñecas",
+                "Franz Tamayo",
+                "Aroma",
+                "Caranavi",
+                "José Ramón Loayza",
+                "Bautista Saavedra",
+                "Eliodoro Camacho",
+                "Omasuyos",
+                "General José Manuel Pando",
+                "Gualberto Villaroel",
+                "Nor Yungas",
+                "Los Andes",
+                "Manco Kapac"
             ]
         },
         {
             "departament": "Oruro",
             "province":[
-
+                "Atahuallpa",
+                "Carangas",
+                "Cercado",
+                "Eduardo Abaroa",
+                "Ladislao Cabrera",
+                "Litoral",
+                "Mejillones",
+                "Nor Carangas",
+                "Pantaleón Dalence",
+                "Poopó",
+                "Sajama",
+                "San Pedro de Totora",
+                "Saucarí",
+                "Sebastián Pagador",
+                "Sud Carangas",
+                "Tomás Barrón"
             ]
         },
         {
             "departament": "Pando",
             "province":[
-
+                "Abuná",
+                "Federico Román",
+                "Madre de Dios",
+                "Manuripi",
+                "Nicolás Suárez"
             ]
         },
         {
             "departament": "Potosí",
             "province":[
-
+                "Alonso de Ibáñez",
+                "Antonio Quijarro",
+                "Bernardino Bilbao",
+                "Charcas",
+                "Chayanta",
+                "Cornelio Saavedra",
+                "Daniel Campos",
+                "Enrique Baldivieso",
+                "José María Linares",
+                "Modesto Omiste",
+                "Nor Chichas",
+                "Nor Lípez",
+                "Rafael Bustillo",
+                "Sud Chichas",
+                "Sud Lípez",
+                "Tomás Frías"
             ]
         },
         {
             "departament": "Santa Cruz",
             "province":[
-
+                "Andrés Ibáñez",
+                "Ángel Sandoval",
+                "Chiquitos",
+                "Cordillera",
+                "Florida",
+                "Germán Busch",
+                "Guarayos",
+                "Ichilo",
+                "José Miguel de Velasco",
+                "Manuel María Caballero",
+                "Ñuflo de Chávez",
+                "Obispo Santisteban",
+                "Sara",
+                "Vallegrande",
+                "Warnes"
             ]
         },
         {
             "departament": "Tarija",
             "province":[
-
+                "Aniceto Arce",
+                "Avilés",
+                "Cercado",
+                "Gran Chaco",
+                "Méndez",
+                "O'Connor"
             ]
         }
     ]
